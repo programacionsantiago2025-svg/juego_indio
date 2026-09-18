@@ -1,0 +1,3 @@
+ANCHO = 1300
+LARGO = 704
+FPS = 30
